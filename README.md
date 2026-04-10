@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I'm Amith
 
-<!--
-**amithvik1/amithvik1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 🎓 **1st year B.Tech student** at PES University  
+- 💻 Studying **Computer Science and Engineering**  
+- 🔧 Currently building **GUIs, tools, and improving Python skills**  
+- 🌱 Always learning and experimenting with new tech  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+
+**💻 Languages**
+- Python  
+- C  
+- HTML  
+- CSS  
+
+**🧰 Tools**
+- Git  
+- GitHub  
+- CLion  
+
+**⚙️ Concepts**
+- Object-Oriented Programming (OOP)  
+- Problem Solving  
+
+---
+
+### 🎯 Goals
+- 🚀 Contribute more to **open source**  
+- 📚 Learn new concepts consistently  
+- ✨ Write **cleaner, more polished code**  
+
+---
+
+### 📫 Contact Me
+- ✉️ Gmail: amithvik1@gmail.com  
+- 🔗 LinkedIn: Amith Vikram  
+
+---
+
+### ⚡ Fun Note
+> I enjoy building and exploring things that actually *work* — simple, clean, and useful.
