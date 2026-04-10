@@ -13,8 +13,7 @@
 **💻 Languages**
 - Python  
 - C  
-- HTML  
-- CSS  
+- HTML & CSS  
 
 **🧰 Tools**
 - Git  
