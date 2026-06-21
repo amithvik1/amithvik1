@@ -3,7 +3,7 @@
 ### 🚀 About Me
 - 🎓 **1st year B.Tech student** at PES University  
 - 💻 Studying **Computer Science and Engineering**  
-- 🔧 Currently building **GUIs, tools, and improving Python skills**  
+- 🔧 Currently doing **DSA, tools, and improving Python & C skills**  
 - 🌱 Always learning and experimenting with new tech  
 
 ---
