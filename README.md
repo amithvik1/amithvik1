@@ -1,43 +1,27 @@
-# 👋 Hi, I'm Amith
+#  Hi, I'm Amith
 
-### 🚀 About Me
-- 🎓 **1st year B.Tech student** at PES University  
-- 💻 Studying **Computer Science and Engineering**  
-- 🔧 Currently doing **DSA, tools, and improving Python & C skills**  
-- 🌱 Always learning and experimenting with new tech  
+###  About Me
+-  **2nd year B.Tech student** at PES University  
+-  Studying **Computer Science and Engineering**  
+-  Currently doing **DSA, tools, and improving C & C++ skills**  
+-  Always learning and experimenting with new tech  
 
 ---
 
-### 🛠️ Skills
+###  Skills
 
-**💻 Languages**
+** Languages**
 - Python  
-- C  
+- C
+- C++
 - HTML & CSS  
 
-**🧰 Tools**
+** Tools**
 - Git  
 - GitHub  
 - CLion  
 
-**⚙️ Concepts**
-- Object-Oriented Programming (OOP)  
-- Problem Solving  
+###  Contact Me
+-  Gmail: amithvik1@gmail.com  
+-  LinkedIn: Amith Vikram  
 
----
-
-### 🎯 Goals
-- 🚀 Contribute more to **open source**  
-- 📚 Learn new concepts consistently  
-- ✨ Write **cleaner, more polished code**  
-
----
-
-### 📫 Contact Me
-- ✉️ Gmail: amithvik1@gmail.com  
-- 🔗 LinkedIn: Amith Vikram  
-
----
-
-### ⚡ Fun Note
-> I enjoy building and exploring things that actually *work* — simple, clean, and useful.
