@@ -10,15 +10,14 @@
 
 ###  Skills
 
-** Languages**
+Languages
 - Python  
 - C
 - C++
 - HTML & CSS  
 
-** Tools**
-- Git  
-- GitHub  
+Tools
+- Git  , GitHub  
 - CLion  
 
 ###  Contact Me
