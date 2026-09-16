@@ -3,8 +3,7 @@
 ###  About Me
 -  **2nd year B.Tech student** at PES University  
 -  Studying **Computer Science and Engineering**  
--  Currently doing **DSA, tools, and improving C & C++ skills**  
--  Always learning and experimenting with new tech  
+-  Currently doing **DSA, exploring new topics, and improving C & C++ skills**  
 
 ---
 
@@ -17,8 +16,8 @@ Languages
 - HTML & CSS  
 
 Tools
-- Git  , GitHub  
-- CLion  
+- Git , GitHub  
+- CLion , VIM 
 
 ###  Contact Me
 -  Gmail: amithvik1@gmail.com  
