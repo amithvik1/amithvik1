@@ -18,6 +18,7 @@ Languages
 Tools
 - Git , GitHub  
 - CLion , VIM 
+- LLMs with Omniroute configurations 
 
 ###  Contact Me
 -  Gmail: amithvik1@gmail.com  
